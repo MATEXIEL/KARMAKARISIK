@@ -34,3 +34,7 @@ Oyunun oynanışı hakkında kısa bir tanıtım videosu: https://youtu.be/BKaae
 ## Verilen Sürede Kelime Yazılamazsa Oyun Biter...
 
 ![image_alt](https://github.com/MATEXIEL/KARMAKARISIK/blob/e3b724e54787d49fe5a328d1eb8d4c9b4c2cb985/screenshots/Game%20Over.png)
+
+---
+
+## NOT: Bu oyunda sahne değişimi gerektiren bir mekanik bulunmadığından, sahne değişimleri "Karanlık Mod'a Geç" butonu ile sağlanılmak istenmiştir.
