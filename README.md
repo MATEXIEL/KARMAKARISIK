@@ -6,6 +6,7 @@ Bu proje, Bursa Teknik Üniversitesi'nde almakta olduğum Web Tabanlı Programla
 
 # İçerik
 Oyunu oynamak için: https://matexiel.github.io/KARMAKARISIK/
+
 Oyunun oynanışı hakkında kısa bir tanıtım videosu: 
 
 ---
